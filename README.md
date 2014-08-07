@@ -1,4 +1,4 @@
 Leetcode-Java
 =============
 
-Java code for Leetcode
+Complete Java solution for Leetcode Online Judge: 151 problems.
